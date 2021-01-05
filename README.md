@@ -2,3 +2,4 @@
 Test for beginners 2
 meta contribution - cross contribution
 meta contribution - cross contribution - newbranch
+meta contribution - cross contribution - commit only
